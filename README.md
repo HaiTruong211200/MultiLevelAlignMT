@@ -45,6 +45,8 @@ The model is trained using a two-stage procedure. The first stage initializes th
 
 # 🧩 Model Architecture
 
+![Hybrid architecture and two-stage multilevel alignment workflow](docs/images/architecture.png)
+
 The proposed model contains three main components:
 
 | Component | Description |
